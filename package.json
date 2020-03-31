@@ -1,0 +1,19 @@
+{
+  "name": "mynode",
+  "version": "12.16.1",
+  "description": "myapptest",
+  "main": "Hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stIvanov2264/my-node-project.git"
+  },
+  "author": "Stanislav Ivanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stIvanov2264/my-node-project/issues"
+  },
+  "homepage": "https://github.com/stIvanov2264/my-node-project#readme"
+}
